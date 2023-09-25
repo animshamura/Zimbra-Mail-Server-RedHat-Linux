@@ -1,0 +1,187 @@
+2023-09-04T18:43:26.966Z In(05) mks Log for VMware Workstation pid=5196 version=17.0.0 build=build-20800274 option=Release
+2023-09-04T18:43:26.966Z In(05) mks The host is x86_64.
+2023-09-04T18:43:26.966Z In(05) mks Host codepage=windows-1252 encoding=windows-1252
+2023-09-04T18:43:26.966Z In(05) mks Host is Windows 10 Pro, 64-bit (Build 19045.3324)
+2023-09-04T18:43:26.966Z In(05) mks Host offset from UTC is -06:00.
+2023-09-04T18:43:27.477Z In(05) main  VTHREAD 1052 "main"
+2023-09-04T18:43:27.477Z In(05) main  MKSRoleMain: Initializing MKSSandbox...
+2023-09-04T18:43:27.477Z In(05) main  MKSRoleMain: Initializing FeatureState...
+2023-09-04T18:43:27.477Z In(05) main  MKSRoleMain: Initializing Locale...
+2023-09-04T18:43:27.478Z In(05) main  LOCALE windows-1252 -> NULL User=409 System=409
+2023-09-04T18:43:27.478Z In(05) main  Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2023-09-04T18:43:27.478Z In(05) main  MKSRoleMain: Initializing Preference...
+2023-09-04T18:43:27.487Z In(05) main  DictionaryLoad: Cannot open file "C:\Users\great computer\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2023-09-04T18:43:27.487Z In(05) main  [msg.dictionary.load.openFailed] Cannot open file "C:\Users\great computer\AppData\Roaming\VMware\config.ini": The system cannot find the file specified.
+2023-09-04T18:43:27.487Z In(05) main  PREF Optional preferences file not found at C:\Users\great computer\AppData\Roaming\VMware\config.ini. Using default values.
+2023-09-04T18:43:27.498Z In(05) main  MKSRoleMain: Initializing Poll...
+2023-09-04T18:43:27.498Z In(05) main  POLL Using the WSAPoll API Implementation for PollDefault
+2023-09-04T18:43:27.498Z In(05) main  MKSRoleMain: Initializing Log...
+2023-09-04T18:43:27.636Z In(05) main  MKSRoleMain: Found Config Settings:
+2023-09-04T18:43:27.636Z In(05) main  DICT --- GLOBAL SETTINGS C:\ProgramData\VMware\VMware Workstation\settings.ini
+2023-09-04T18:43:27.636Z In(05) main  DICT          printers.enabled = "FALSE"
+2023-09-04T18:43:27.636Z In(05) main  DICT --- NON PERSISTENT (null)
+2023-09-04T18:43:27.636Z In(05) main  DICT --- USER PREFERENCES C:\Users\great computer\AppData\Roaming\VMware\preferences.ini
+2023-09-04T18:43:27.636Z In(05) main  DICT pref.keyboardAndMouse.vmHotKey.enabled = "FALSE"
+2023-09-04T18:43:27.636Z In(05) main  DICT pref.keyboardAndMouse.vmHotKey.count = "0"
+2023-09-04T18:43:27.636Z In(05) main  DICT pref.vmplayer.firstRunDismissedVersion = "17.0.0"
+2023-09-04T18:43:27.636Z In(05) main  DICT   pref.lastUpdateCheckSec = "1693773156"
+2023-09-04T18:43:27.636Z In(05) main  DICT         vmWizard.guestKey = "rhel9-64"
+2023-09-04T18:43:27.636Z In(05) main  DICT vmWizard.installMediaType = "later"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU.count = "7"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU0.location = "C:\Users\great computer\Downloads\rhel-9.2-x86_64-dvd.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU1.location = "C:\Users\great computer\Downloads\Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.vmplayer.deviceBarToplevel = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore.numItems = "3"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore0.key = <not printed>
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore0.value = "1c0ed2c7-02ef-48b5-b597-3d15ece7f54e"
+2023-09-04T18:43:27.637Z In(05) main  DICT       pref.license.maxNum = "2"
+2023-09-04T18:43:27.637Z In(05) main  DICT     pref.license0.version = "16.0"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.license0.registrationViewed = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.license0.lastEvalReminder = "30"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window.count = "1"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab.count = "4"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab0.dest = ""
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab0.file = ""
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab0.type = "home"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab0.cnxType = "vmdb"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab0.focused = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab1.cnxType = "vmdb"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.sidebar = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.sidebar.width = "200"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.statusBar = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tabs = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.thumbnailBar = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.thumbnailBar.size = "125"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.thumbnailBar.view = "same-folder"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.placement.left = "26"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.placement.top = "26"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.placement.right = "1051"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.placement.bottom = "399"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.maximized = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab2.cnxType = "vmdb"
+2023-09-04T18:43:27.637Z In(05) main  DICT  hint.vmui.showNewUSBDevs = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT             hints.hideAll = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore1.key = <not printed>
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore1.value = "dcaa9bf8-4798-43d9-b750-703c15a5fa00"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU2.location = "C:\Users\great computer\Downloads\Windows_7_Professional_x64.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT      pref.mruVM0.filename = "C:\Users\great computer\Documents\Virtual Machines\CBC\CBC.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT   pref.mruVM0.displayName = "CBC"
+2023-09-04T18:43:27.637Z In(05) main  DICT         pref.mruVM0.index = "0"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU3.location = "C:\Users\great computer\Downloads\CentOS-7-x86_64-Everything-2207-02.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU4.location = "C:\Users\great computer\Downloads\CentOS-7-x86_64-Everything-2009.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT      pref.mruVM1.filename = "C:\Users\great computer\Documents\Virtual Machines\RHEL\RHEL.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT   pref.mruVM1.displayName = "RHEL"
+2023-09-04T18:43:27.637Z In(05) main  DICT         pref.mruVM1.index = "1"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU5.location = "C:\Users\great computer\Downloads\rhel-server-7.9-x86_64-dvd.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT      pref.mruVM2.filename = "C:\Users\great computer\Documents\Virtual Machines\Warhead\Warhead.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT   pref.mruVM2.displayName = "Warhead"
+2023-09-04T18:43:27.637Z In(05) main  DICT         pref.mruVM2.index = "2"
+2023-09-04T18:43:27.637Z In(05) main  DICT     pref.license1.version = "17.0"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.license1.registrationViewed = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.license1.lastEvalReminder = "30"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore2.key = <not printed>
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.updatesVersionIgnore2.value = "b3daec82-64a5-428b-aa29-476fd69fe5e7"
+2023-09-04T18:43:27.637Z In(05) main  DICT             vmWizard.mode = "typical"
+2023-09-04T18:43:27.637Z In(05) main  DICT vmWizard.isoLocationMRU6.location = "C:\Users\great computer\Desktop\AlmaLinux-8-latest-x86_64-minimal.iso"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab3.cnxType = "vmdb"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab4.cnxType = "vmdb"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab1.dest = ""
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab1.file = "C:\Users\great computer\Documents\Virtual Machines\Windows Server 2016\Windows Server 2016.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab1.type = "vm"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab1.focused = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab2.dest = ""
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab2.file = "C:\Users\great computer\Documents\Virtual Machines\Windows 7\Windows 7.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab2.type = "vm"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab2.focused = "TRUE"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab3.dest = ""
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab3.file = "C:\Users\great computer\Documents\Virtual Machines\Client\Client.vmx"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab3.type = "vm"
+2023-09-04T18:43:27.637Z In(05) main  DICT pref.ws.session.window0.tab3.focused = "FALSE"
+2023-09-04T18:43:27.637Z In(05) main  DICT --- USER DEFAULTS C:\Users\great computer\AppData\Roaming\VMware\config.ini
+2023-09-04T18:43:27.637Z In(05) main  DICT --- HOST DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2023-09-04T18:43:27.637Z In(05) main  DICT installerDefaults.simplifiedUI = "no"
+2023-09-04T18:43:27.637Z In(05) main  DICT         authd.client.port = "902"
+2023-09-04T18:43:27.637Z In(05) main  DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2023-09-04T18:43:27.637Z In(05) main  DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2023-09-04T18:43:27.637Z In(05) main  DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "866"
+2023-09-04T18:43:27.637Z In(05) main  DICT installerDefaults.componentDownloadEnabled = "yes"
+2023-09-04T18:43:27.637Z In(05) main  DICT installerDefaults.dataCollectionEnabled = "yes"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.dataCollectionEnabled.epoch = "866"
+2023-09-04T18:43:27.638Z In(05) main  DICT --- SITE DEFAULTS C:\ProgramData\VMware\VMware Workstation\config.ini
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.simplifiedUI = "no"
+2023-09-04T18:43:27.638Z In(05) main  DICT         authd.client.port = "902"
+2023-09-04T18:43:27.638Z In(05) main  DICT           authd.proxy.nfc = "vmware-hostd:ha-nfc"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.autoSoftwareUpdateEnabled = "yes"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.autoSoftwareUpdateEnabled.epoch = "866"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.componentDownloadEnabled = "yes"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.dataCollectionEnabled = "yes"
+2023-09-04T18:43:27.638Z In(05) main  DICT installerDefaults.dataCollectionEnabled.epoch = "866"
+2023-09-04T18:43:27.638Z In(05) main  LOCALE windows-1252 -> NULL User=409 System=409
+2023-09-04T18:43:27.638Z In(05) main  Msg_SetLocaleEx: HostLocale=windows-1252 UserLocale=NULL
+2023-09-04T18:43:27.638Z In(05) main  MKSRoleMain: Initializing Sig
+2023-09-04T18:43:27.638Z In(05) main  MKSRoleMain: Initializing MKS
+2023-09-04T18:43:27.656Z In(05) main  MKSRoleMain: Powering on.
+2023-09-04T18:43:27.656Z In(05) main  MKSSandbox: Powering on MKSSandboxComm
+2023-09-04T18:43:27.656Z In(05) main  MKSSandbox: MKS_UUID=52 9b 87 65 d2 0d 0f 30-be 95 7f de 00 ac ec e6
+2023-09-04T18:43:27.773Z In(05) main  MKSRoleMain: Powering on MKS
+2023-09-04T18:43:27.773Z In(05) main  MKS PowerOn
+2023-09-04T18:43:27.773Z In(05) mks  VTHREAD 3032 "mks"
+2023-09-04T18:43:27.773Z In(05) mks  MKS thread is alive
+2023-09-04T18:43:27.774Z In(05) svga  VTHREAD 7460 "svga"
+2023-09-04T18:43:27.774Z In(05) svga  SVGA thread is alive
+2023-09-04T18:43:27.774Z In(05) mks  MKS: SSE2=1, SSSE3=1, SSE4_1=1
+2023-09-04T18:43:27.982Z In(05) mks  MKS Win32: Registering top level window (0x20e9e) to receive session change notification.
+2023-09-04T18:43:27.984Z In(05) mks  MKS Win32: Successfully enabled high resolution system timer.
+2023-09-04T18:43:27.984Z In(05) mks  Current Display Settings:
+2023-09-04T18:43:27.984Z In(05) mks     Display: 0 size: 1366x768  position: (0, 0) name: \\.\DISPLAY1  
+2023-09-04T18:43:27.984Z In(05) mks  MKS Win32: MIL: 0x2000
+2023-09-04T18:43:27.984Z In(05) mks  MKS-RenderMain: PowerOn allowed DX12Renderer 
+2023-09-04T18:43:27.984Z In(05) mks  MKS-RenderMain: ISB not enabled by config
+2023-09-04T18:43:27.984Z In(05) mks  MKS-RenderMain: Collecting RenderOps caps from DX12Renderer
+2023-09-04T18:43:27.984Z In(05) mks  MKS-RenderMain: Starting DX12Renderer
+2023-09-04T18:43:29.528Z Wa(03) mks  DX12Module: Available adapters:
+2023-09-04T18:43:29.528Z Wa(03) mks  DX12Module:  Intel(R) HD Graphics
+2023-09-04T18:43:29.528Z Wa(03) mks  DX12Module:    VendorId = 32902, DeviceId = 258, SubSysId = -805301160, Revision = 9, AdapterLuid = 043473, Flags = 10
+2023-09-04T18:43:29.528Z Wa(03) mks  DX12Module:    DedicatedVideoMemory = 33554432, DedicatedSystemMemory = 0, SharedSystemMemory = 1711276032
+2023-09-04T18:43:29.528Z Wa(03) mks  DX12Module:    Lacks keyed mutex conformance.
+2023-09-04T18:43:31.216Z Wa(03) mks  DX12Module: Adapter does not support D3D12.
+2023-09-04T18:43:31.216Z Wa(03) mks  DX12Module:  Microsoft Basic Render Driver
+2023-09-04T18:43:31.216Z Wa(03) mks  DX12Module:    VendorId = 5140, DeviceId = 140, SubSysId = 0, Revision = 0, AdapterLuid = 043968, Flags = 3e
+2023-09-04T18:43:31.216Z Wa(03) mks  DX12Module:    DedicatedVideoMemory = 0, DedicatedSystemMemory = 0, SharedSystemMemory = 4236568576
+2023-09-04T18:43:31.534Z Wa(03) mks  DX12Module: Selected adapter:
+2023-09-04T18:43:31.534Z Wa(03) mks  DX12Module:  Microsoft Basic Render Driver
+2023-09-04T18:43:31.534Z Wa(03) mks  DX12Module:    VendorId = 5140, DeviceId = 140, SubSysId = 0, Revision = 0, AdapterLuid = 043968, Flags = 3e
+2023-09-04T18:43:31.534Z Wa(03) mks  DX12Module:    DedicatedVideoMemory = 0, DedicatedSystemMemory = 0, SharedSystemMemory = 4236568576
+2023-09-04T18:43:31.534Z In(05) mks  DX12Module:  GPU chip: Unknown (Unknown)
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Failed to start the renderer DX12Renderer
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Retrying renderer selection without VMFeature requirements
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Retrying renderer selection without 3D requirements
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Collecting RenderOps caps from MKSBasicOps
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Starting MKSBasicOps
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Started MKSBasicOps
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Found Full Renderer: MKSBasicOps
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: maxTextureSize=32768
+2023-09-04T18:43:31.537Z In(05) mks  MKSRemoteMgr: Set default display name: Red Hat Enterprise Linux 9 64-bit
+2023-09-04T18:43:31.537Z In(05) mks  MKSRemoteMgr: Loading VNC Configuration from VM config file
+2023-09-04T18:43:31.537Z In(05) mks  MKSRemoteMgr: Using default VNC keymap table "us"
+2023-09-04T18:43:31.537Z In(05) main  MKSSandbox: Unable to start a 3D renderer on mksSandbox
+2023-09-04T18:43:31.537Z In(05) main  MKSThread: Requesting MKS exit
+2023-09-04T18:43:31.537Z In(05) main  MKSRoleReplay: Skipping LatePowerOn
+2023-09-04T18:43:31.537Z In(05) main  MKSRoleMain: PowerOn finished.
+2023-09-04T18:43:31.537Z In(05) main  Stopping MKS/SVGA threads
+2023-09-04T18:43:31.537Z In(05) svga  MKSThread: SVGA thread is skipping PowerOn
+2023-09-04T18:43:31.537Z In(05) svga  MKSThread: SVGA thread is skipping the main loop
+2023-09-04T18:43:31.537Z In(05) main  MKS/SVGA threads are stopped
+2023-09-04T18:43:31.537Z In(05) main  MKSRoleMain: Powering off.
+2023-09-04T18:43:31.537Z In(05) main  MKSRoleMain: Powering off MKS
+2023-09-04T18:43:31.537Z In(05) mks  MKS-RenderMain: Stopped MKSBasicOps
+2023-09-04T18:43:31.538Z In(05) mks  MKS PowerOff
+2023-09-04T18:43:31.538Z In(05) svga  MKSThread: SVGA thread is skipping PowerOff
+2023-09-04T18:43:31.538Z In(05) svga  SVGA thread is exiting
+2023-09-04T18:43:31.538Z In(05) mks  MKS thread is exiting
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Exiting...
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Exiting MKS
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Exiting Sig
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Skipping SSL (already exited)
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Exiting Poll
+2023-09-04T18:43:31.539Z In(05) main  MKSRoleMain: Exiting Log
